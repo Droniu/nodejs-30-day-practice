@@ -1,0 +1,12 @@
+{
+  "name": "day-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-addon-api": "^8.5.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^11.5.0"
+  }
+}
